@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/title_notas"
+        android:icon="@drawable/ic_baseline_note_24"
+        android:title="Notas" />
+
+    <item
+        android:id="@+id/title_favoritos"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="Favoritos" />
+
+    <item
+        android:id="@+id/title_notificaciones"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="Perfil" />
+
+</menu>
